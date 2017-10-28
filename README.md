@@ -6,7 +6,7 @@ Tips is a tip calculator application for iOS.
 
 Submitted by: Nashid Chowdhury
 
-Time spent: 7 hours spent in total
+Total Time Taken to Complete: 7 hours spent in total
 
 ## User Stories
 
